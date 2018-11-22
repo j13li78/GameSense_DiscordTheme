@@ -75,7 +75,7 @@ input,textarea{
     font-family:'Raleway'
 }
 .wordmark-2iDDfm::before{
-    content:'Game';
+    content:'game';
     font-size:14px;
     z-index:1000;
     position:fixed;
