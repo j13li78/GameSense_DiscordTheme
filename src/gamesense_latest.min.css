@@ -61,12 +61,6 @@ input,textarea{
     border-bottom:1px solid var(--outline-lightcolor)
 }
 
-.typeWindows-1za-n7:hover{
-	height:20px;
-	transition: all .6s;
-	opacity: 1;
-}
-
 .winButton-iRh8-Z{
     top:2px!important
 }
